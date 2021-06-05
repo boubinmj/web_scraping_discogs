@@ -1,0 +1,6 @@
+[submodule "price_discogs"]
+	path = price_discogs
+	url = https://github.com/boubinmj/price_discogs
+[submodule "discogs"]
+	path = discogs
+	url = https://github.com/boubinmj/discogs
